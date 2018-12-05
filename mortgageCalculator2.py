@@ -1,8 +1,4 @@
-# Name the program source code file mortgageCalculator2.py and submit the required file here in Canvas.
-# This assignment is worth 80 points, to be awarded after all labs are successfully completed.
-# Submit your assignment as mortgageCalculator2.py making sure you put the ".py" file extension at the end of
-# the file name. Submit mortgageCalculator2.py using the "Submit Assignment" button, and use the "File Upload" tab to
-# select mortgageCalculator2.py from your computer to send it to the instructor
+# Write user input data to a file text instead of the ouput screen
 
 
 p = int(input("What is the purchase amount?")) #user inputs amount converted to int
